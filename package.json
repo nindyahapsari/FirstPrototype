@@ -1,0 +1,16 @@
+{
+  "name": "trying-threejs",
+  "version": "1.0.0",
+  "description": "First Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "author": "Nindya Hapsari",
+  "license": "ISC",
+  "homepage": "https://nindyahapsari/github.io/FirstPrototype",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
